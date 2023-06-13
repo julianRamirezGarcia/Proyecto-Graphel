@@ -1,0 +1,225 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background-color: #24282b;
+  padding: 10px;
+  height: 80px;
+  box-shadow: 0px 10px #1392d4;
+  margin-bottom: 10px;
+  font-family: "Roboto", sans-serif;
+}
+h2 {
+  float: left;
+}
+a {
+  float: right;
+  text-decoration: none;
+  color: white;
+  margin-top: 25px;
+  margin-right: 30px;
+}
+ul {
+  margin-bottom: 30px;
+  list-style: none;
+  margin-right: 150px;
+}
+.diseño {
+  color: #ffffff;
+  margin-left: 300px;
+  margin-top: 30px;
+  margin-bottom: 10px auto;
+  margin-right: 15px;
+  font-size: 30px;
+  font-family: "Roboto", sans-serif;
+}
+.multimedia {
+  margin-top: 30px;
+  margin-bottom: 10px auto;
+  color: #1392d4;
+  font-size: 30px;
+  font-family: "Roboto", sans-serif;
+}
+.inicio {
+  color: #1392d4;
+}
+.contenedor {
+  height: 600px;
+  background-image: url(../images/cabecera.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.contenido_E {
+  padding-top: 220px;
+  text-align: center;
+  color: white;
+  font-size: 50px;
+  font-family: "Roboto", sans-serif;
+}
+.contenido_E2 {
+  text-align: center;
+  color: white;
+  font-size: 25px;
+  font-family: "Roboto", sans-serif;
+}
+.clear {
+  clear: both;
+}
+.suscribsion {
+  background-color: #24282b;
+  color: #ffffff;
+  height: 100px;
+  font-family: "Roboto", sans-serif;
+}
+.suscribsion button {
+  float: right;
+  margin-right: 100px;
+  margin-top: 25px;
+  margin-left: 5px;
+  padding: 15px;
+  background-color: #e8491d;
+  color: white;
+  border: none;
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+}
+.suscribsion input {
+  float: right;
+  padding: 10px 40px;
+  margin-top: 31px;
+  font-size: 15px;
+}
+.texto_s {
+  padding-top: 33px;
+  padding-left: 350px;
+  text-align: center;
+  float: left;
+  font-size: 28px;
+  font-family: "Roboto", sans-serif;
+}
+footer {
+  background-color: #1293d4;
+  color: white;
+  text-align: center;
+  height: 50px;
+  padding-top: 40px;
+  padding-bottom: 15px;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+}
+.logos1 {
+  margin: 90px 0px 50px 320px;
+  float: left;
+  width: 400px;
+  font-family: "Roboto", sans-serif;
+}
+.logos {
+  margin: 90px 10px 50px 20px;
+  float: left;
+  width: 400px;
+  font-family: "Roboto", sans-serif;
+}
+.logos img {
+  width: 50%;
+  height: auto;
+  padding-left: 40px;
+  padding-bottom: 20px;
+}
+.logos1 img {
+  width: 50%;
+  height: auto;
+  padding-left: 40px;
+  padding-bottom: 20px;
+}
+
+.nosotros {
+  margin-top: 40px;
+  margin-bottom: 20px;
+  width: 800px;
+  margin-left: 180px;
+  font-size: 18px;
+  float: left;
+  font-family: "Roboto", sans-serif;
+}
+.p2-nosotros {
+  background-color: #24282b;
+  color: white;
+  padding: 20px;
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+}
+.nosotros img {
+  background-position: center;
+  background-size: cover;
+  width: 800px;
+  padding-top: 40px;
+}
+.que-hacemos {
+  margin-right: 150px;
+  margin-top: 40px;
+  width: 350px;
+  margin-left: 18px;
+  font-size: 18px;
+  float: right;
+  background-color: #24282b;
+  color: white;
+  padding-top: 45px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  font-family: "Roboto", sans-serif;
+}
+.p1-servicio {
+  background-color: rgb(223, 223, 223);
+  padding: 40px;
+  margin-bottom: 5px;
+  font-family: "Roboto", sans-serif;
+}
+.mapa {
+  width: 380px;
+  height: 380px;
+  float: right;
+  margin-top: 20px;
+}
+.mapa img {
+  width: 380px;
+  height: 380px;
+  float: right;
+  margin-top: 20px;
+  margin-right: 145px;
+}
+form {
+  float: left;
+  padding: 30px;
+  margin: 20px;
+  font-family: "Roboto", sans-serif;
+}
+.contacto {
+  float: left;
+  margin-top: 40px;
+  margin-left: 40px;
+  font-family: "Roboto", sans-serif;
+}
+.contacto input {
+  padding: 15px 730px;
+  font-size: 20px;
+  padding-left: 0px;
+}
+.contacto label {
+  font-size: 20px;
+}
+.contacto button {
+  padding: 20px 470px;
+  background-color: #e8491d;
+  color: white;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+}
+.contacto h2 {
+  margin-left: 50px;
+  font-size: 30px;
+  font-family: "Roboto", sans-serif;
+}
